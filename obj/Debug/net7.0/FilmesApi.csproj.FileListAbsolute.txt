@@ -38,3 +38,5 @@ D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.D
 D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\MySqlConnector.dll
 D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\AutoMapper.dll
+D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
