@@ -46,3 +46,5 @@ D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Newtonsoft.Json.dll
 D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
 D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\FilmesApi.xml
 D:\Code\C#\FilmesApi2\FilmesApi\obj\Debug\net7.0\FilmesApi.xml
+D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Castle.Core.dll
+D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
