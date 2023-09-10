@@ -40,3 +40,9 @@ D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\MySqlConnector.dll
 D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\AutoMapper.dll
 D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Code\C#\FilmesApi2\FilmesApi\bin\Debug\net7.0\FilmesApi.xml
+D:\Code\C#\FilmesApi2\FilmesApi\obj\Debug\net7.0\FilmesApi.xml
